@@ -1,0 +1,23 @@
+/*
+Marissa McCarrick
+November 6
+London Tombs 
+/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {background-color:red;
+
+}
+
+#LondonTombs {width:400px; height:200px;}
+#LondonTombs2 {width:350px; height:200px;}
+#LondonTombs3 {width:300px; height:300px;}
+#BruceCastle {width:200px; height:200px;}
+#TenBellsPub {width:300px; height:200px;}
